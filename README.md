@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/kinishii1/order-summary-component-frontendmentor/blob/main/screenshot.PNG)
 
 ### Built with
 
